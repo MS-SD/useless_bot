@@ -3,3 +3,5 @@ asyncio
 aiohttp
 cookiecutter==1.7.0
 botbuilder-integration-aiohttp>=4.12.0
+botbuilder-dialogs
+botbuilder-ai
